@@ -1,0 +1,3218 @@
+[
+    {
+        "parentService": 11,
+        "Title": "AC Servicing",
+        "Rating": 4.75,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "If you don't avail any services for your AC after our Service Provider send a technician at your doorstep then you only have to pay the visiting charge which is BDT 100"
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Is this only for household AC?": "Definitely not! As long as you want to avail this service for your AC then you can order for your office Air Conditioners too."
+            },
+            {
+                "What if they damage my AC?": "Our professional Service Providers have expert and skilled AC technicians. If they occur any damages to your AC during repairing you will get proper compensation after proper investigation. However, your complaint for any pre-damaged problems will not be considered."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture AC parts by ourselves. So, the warranty differs as per manufacturer. However, we can give you 7 days free service warranty."
+            },
+            {
+                "Can I buy AC materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "Only service charge",
+                    "7 Days service warranty"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation cost for carrying new materials/parts",
+                    "Warranty given by manufacturer"
+                ]
+            },
+            {
+                "Available Services": [
+                    "AC Basic Servicing",
+                    "AC Master Service",
+                    "AC Water Drop Solution",
+                    "AC Jet Wash"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Post Service Warranty",
+            "Well-equipped & Well-prepared Specialists to Prevent COVID-19"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Great service by samrat bhaiya..",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "They have expertise, also well mannered service personnel. Thank you for your service.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "He is very good and expert worker.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "AC Basic Service",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 950,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Master Service",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 1700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 2200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 2600,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Water Drop Solution",
+                "Image": "https://i.ibb.co/DWPMtXD/ac-water-leaks.png",
+                "Key": [
+                    {
+                        "Name": "AC Water Drop Solution",
+                        "Price": 1100,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "Hanging Charge",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "Hanging Charge",
+                        "Price": 400,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Jet Wash",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 1200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 1800,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 2400,
+                        "Quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 12,
+        "Title": "AC Cooling Problem",
+        "Rating": 4.75,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "If you don't avail any services for your AC after our Service Provider send a technician at your doorstep then you only have to pay the visiting charge which is BDT 100"
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Is this only for household AC?": "Definitely not! As long as you want to avail this service for your AC then you can order for your office Air Conditioners too."
+            },
+            {
+                "What if they damage my AC?": "Our professional Service Providers have expert and skilled AC technicians. If they occur any damages to your AC during repairing you will get proper compensation after proper investigation. However, your complaint for any pre-damaged problems will not be considered."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture AC parts by ourselves. So, the warranty differs as per manufacturer. However, we can give you 7 days free service warranty."
+            },
+            {
+                "Can I buy AC materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "Only service charge"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation cost for carrying new materials/parts"
+                ]
+            },
+            {
+                "Available Services": [
+                    "AC Gas Charge",
+                    "AC Compressor Fitting with Gas Charge"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "AC Gas Charge",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1Ton Full - R22",
+                        "Price": 1800,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1Ton Partial - R22",
+                        "Price": 1000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1Ton Full - R410",
+                        "Price": 2500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1Ton Partial - R410",
+                        "Price": 1250,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1.5 Ton Full - R22",
+                        "Price": 2200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1.5 Ton Partial - R22",
+                        "Price": 1100,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1.5 Ton Full - R410",
+                        "Price": 3000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "1.5 Ton Partial - R410",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 Ton Full - R22",
+                        "Price": 2500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 Ton Partial - R22",
+                        "Price": 1250,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 Ton Full - R410",
+                        "Price": 3300,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 Ton Partial - R410",
+                        "Price": 1650,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Capacitor Replacement",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 850,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 850,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 850,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Circuit Repair or Replacement",
+                "Image": "https://i.ibb.co/DWPMtXD/ac-water-leaks.png",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 2000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 2700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 3500,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Compressor Fitting With Gas Charge",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 4000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 6500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 8000,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Leak Repair",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 2000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 2500,
+                        "Quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 13,
+        "Title": "AC Installation & Uninstallation",
+        "Rating": 4.75,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "If you don't avail any services for your AC after our Service Provider send a technician at your doorstep then you only have to pay the visiting charge which is BDT 100"
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Is this only for household AC?": "Definitely not! As long as you want to avail this service for your AC then you can order for your office Air Conditioners too."
+            },
+            {
+                "What if they damage my AC?": "Our professional Service Providers have expert and skilled AC technicians. If they occur any damages to your AC during repairing you will get proper compensation after proper investigation. However, your complaint for any pre-damaged problems will not be considered."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture AC parts by ourselves. So, the warranty differs as per manufacturer. However, we can give you 7 days free service warranty."
+            },
+            {
+                "Can I buy AC materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "Only service charge"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation (if applicable).",
+                    "Hanging Charge 400tk (If applicate)",
+                    "Air conditioner drainage system."
+                ]
+            },
+            {
+                "Available Services": [
+                    "AC Installation",
+                    "AC Uninstallation",
+                    "AC Installation & Installation Or Shifting"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "AC Installation",
+                "Image": "https://i.ibb.co/MC8y1sk/acinstallation.jpg",
+                "Key": [
+                    {
+                        "Name": "AC Installation ( Both Unit ) 1 Ton - 1.5 Ton",
+                        "Price": 1700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Installation ( Both Unit ) 3 Ton - 3 Ton",
+                        "Price": 2200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Installation ( Both Unit ) 4 Ton - 5 Ton",
+                        "Price": 4200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Installation ( Indoor/Outdoor Unit Only ) 1 Ton - 1.5 Ton",
+                        "Price": 900,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Installation ( Indoor/Outdoor Unit Only ) 2 Ton - 3 Ton",
+                        "Price": 1100,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Installation ( Indoor/Outdoor Unit Only ) 4 Ton - 5 Ton",
+                        "Price": 2100,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Uninstallation or Dismantling",
+                "Image": "https://i.ibb.co/MC8y1sk/acinstallation.jpg",
+                "Key": [
+                    {
+                        "Name": "AC Uninstallation ( Both Unit ) 1 Ton - 1.5 Ton",
+                        "Price": 800,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation ( Both Unit ) 3 Ton - 3 Ton",
+                        "Price": 1300,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation ( Both Unit ) 4 Ton - 5 Ton",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation ( Indoor/Outdoor Unit Only ) 1 Ton - 1.5 Ton",
+                        "Price": 600,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation ( Indoor/Outdoor Unit Only ) 2 Ton - 3 Ton",
+                        "Price": 900,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation ( Indoor/Outdoor Unit Only ) 4 Ton - 5 Ton",
+                        "Price": 1200,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Uninstallation & Installation or Shifting (Both Unit)",
+                "Image": "https://i.ibb.co/MC8y1sk/acinstallation.jpg",
+                "Key": [
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting (Both Unit) 1 Ton - 1.5 Ton",
+                        "Price": 2500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting (Both Unit) 3 Ton - 3 Ton",
+                        "Price": 3500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting (Both Unit) 4 Ton - 5 Ton",
+                        "Price": 5500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting( Indoor/Outdoor Unit Only ) 1 Ton - 1.5 Ton",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting( Indoor/Outdoor Unit Only ) 2 Ton - 3 Ton",
+                        "Price": 2000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "AC Uninstallation & Installation or Shifting( Indoor/Outdoor Unit Only ) 4 Ton - 5 Ton",
+                        "Price": 3500,
+                        "Quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 21,
+        "Title": "Microwave Oven Repair Services",
+        "Rating": 4.95,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "No, you don't need to pay any visit charge if you cancel the order on the spot."
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture microwave oven parts by ourselves. So, the warranty differs as per manufacturer. However, we give you 7 days of free service warranty."
+            },
+            {
+                "Can I buy microwave oven materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our service providers and ServiceA2Z itself."
+            },
+            {
+                "Will the microwave oven repair service be given at home or taken by service providers?": "Usually the service is provided at home but if you want, the service can be done outside your home. But for that you need to pay travel allowance to the appliance technician."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "Expert Microwave Technicians",
+                    "Replacement of parts and components (If required)",
+                    "Complete repairing work",
+                    "Damage Coverage"
+                ]
+            },
+            {
+                "Service Features": [
+                    "Top rated microwave technicians",
+                    "Diagnosis and problem identification",
+                    "Replacement of parts and components (If required",
+                    "Complete repairing work"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable Electricians",
+            "Guaranteed Customer Satisfaction",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "The service provider was well mannered, punctual, skilled. Very happy with the service.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Expert skills with on time arrived!!!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Microwave Oven Check Up",
+                "Image": "https://i.ibb.co/0D8zbWF/1617776411-microwaveovenrepairservices.jpg",
+                "Key": [
+                    {
+                        "Name": "Microwave Oven Check Up",
+                        "Price": 200,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            {
+                "Title": "Microwave Oven Servicing",
+                "Image": "https://i.ibb.co/0D8zbWF/1617776411-microwaveovenrepairservices.jpg",
+                "Key": [
+                    {
+                        "Name": "Microwave Oven Servicing",
+                        "Price": 800,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            {
+                "Title": "Microwave Oven Repair",
+                "Image": "https://i.ibb.co/0D8zbWF/1617776411-microwaveovenrepairservices.jpg",
+                "Key": [
+                    {
+                        "Name": "Not Sure of the Issue",
+                        "Price": 200,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Microwave Oven Is Not Working",
+                        "Price": 790,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Buttons Problem",
+                        "Price": 1100,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Noise Issue",
+                        "Price": 750,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Heating Issue",
+                        "Price": 800,
+                        "Quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 22,
+        "Title": "TV Repair Services",
+        "Rating": 4.65,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "No, you don't have to pay any charge if you don't take any service."
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "What if they damage or something went wrong with my TV during or after servicing?": "Our professional service providers have expert and skilled mechanics. If anything goes wrong after availing this service through ServiceA2Z. A tri-party investigation will be launched (which will involve ServiceA2Z, service provider and the customer). After completion of a transparent investigation. Detection and rectification of the issue will be made. However, your complaint for any pre-damaged problems will not be considered."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture TV parts by ourselves. So, the warranty differs as per manufacturer. However, we give you 7 days of free service warranty"
+            },
+            {
+                "Can I buy TV materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "LCD/LED TV Repair Services",
+                    "TV Wall Mount Installation"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation (if applicable).",
+                    "Warranty on consumable materials/parts"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "good work & behaviour",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "TV Check Up",
+                "Image": "https://i.ibb.co/ZcXpjCC/Electronics-Gadgets-Repair.jpg",
+                "Key": [
+                    {
+                        "Name": "TV Check Up",
+                        "Price": 200,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "LCD/LED TV Repair Services",
+                "Image": "https://i.ibb.co/KDQ4T4s/TV-Repair-Services.png",
+                "Key": [
+                    {
+                        "Name": "22 - 39 inch",
+                        "Price": 1190,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "40 - 45 inch",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "46 - 55 inch",
+                        "Price": 2100,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Basic Checkup",
+                        "Price": 1500,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "TV Wall Mount Installation",
+                "Image": "https://i.ibb.co/L0DRJxK/amazonbasics-tv-wall-mount.jpg",
+                "Key": [
+                    {
+                        "Name": "22 - 50 inch",
+                        "Price": 600,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Above 50 inch",
+                        "Price": 1000,
+                        "Quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 23,
+        "Title": "Refrigerator Repair Services",
+        "Rating": 4.52,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "No, you don't need to pay any visit charge if you cancel the order on the spot."
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "We give 7 days service warranty. Not in parts, but if the manufacturer of the parts gives a warranty then it will apply."
+            },
+            {
+                "Can I buy Refrigerator materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "Service Features": [
+                    "Professional Technician",
+                    "Doorstep service",
+                    "Safety Assurance",
+                    "Service Warranty",
+                    "No Extra Charge",
+                    "Proper Diagnosis",
+                    "Night Shift Service"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation cost for carrying new materials/parts (if applicable).",
+                    "Warranty on consumable materials/parts"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Refrigerator Servicing",
+                "Image": "https://i.ibb.co/WBqF3Qd/Photo-Of-Male-Technician-Fixing-Refrigerator-In-Kitchen.jpg",
+                "Key": [
+                    {
+                        "Name": "Basic Checkup",
+                        "Price": 200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Circuit Repair or Replacement",
+                        "Price": 3500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Condensor fitting with gas refill",
+                        "Price": 4000,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Compressor fitting with gas refill",
+                        "Price": 5500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Thermostat replace",
+                        "Price": 1500,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "Gasket change",
+                        "Price": 3500,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "Fridge Gas Refill",
+                "Image": "https://i.ibb.co/QJjSt9h/refrigeration-compressor.png",
+                "Key": [
+                    {
+                        "Name": "Fridge Gas Refill",
+                        "Price": 1700,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            {
+                "Title": "Refrigerator Check Up",
+                "Image": "https://i.ibb.co/WBqF3Qd/Photo-Of-Male-Technician-Fixing-Refrigerator-In-Kitchen.jpg",
+                "Key": [
+                    {
+                        "Name": "Refrigerator Check Up",
+                        "Price": 200,
+                        "Quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 24,
+        "Title": "Washing Machine Repair Services",
+        "Rating": 4.78,
+        "FQA": [
+            {
+                "Will the washing machine servicing be done at home or outside ? If outside then do I have to provide additional travel allowance to the technician?": "After initial diagnosis by the technician, he will decide whether the servicing can be done at home or not based on the work scope. In case where the technician or mechanics needs to do the servicing outside home, travel allowance needs to be provided by the customers."
+            },
+            {
+                "Do you give materials or parts warranty?": "No. We do not manufacture washing machine parts by ourselves. So, the warranty differs as per manufacturer. However, we give you 7 days of free service warranty."
+            },
+            {
+                "Will the washing machine service given at home or taken by service providers?": "Usually the service is provided at home but if you want, the service can be done outside your home. But for that you need to pay travel allowance to the washing machine technician."
+            }
+        ],
+        "overview": [
+            {
+                "Service Features": [
+                    "Doorstep service",
+                    "Proper Diagnosis",
+                    "Night Shift Service"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation cost for carrying new materials/parts (if applicable).",
+                    "Warranty on consumable materials/parts"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Expert Skilled and Well Mannered , Very Honest",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Washing Machine Repair Services",
+                "Image": "https://i.ibb.co/f8nDYJT/washer-repair-technician.jpg",
+                "Key": [
+                    {
+                        "Name": "Washing Machine Check Up",
+                        "Price": 200,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "Washing Machine Servicing ",
+                "Image": "https://i.ibb.co/f8nDYJT/washer-repair-technician.jpg",
+                "Key": [
+                    {
+                        "Name": "Basic Service",
+                        "Price": 200,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Circuit Repair or Replacement",
+                        "Price": 1800,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Motor Repair/ Replace",
+                        "Price": 1800,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Gear Box Repair/ Replace",
+                        "Price": 2700,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Water Level Sensor",
+                        "Price": 1400,
+                        "Quantity": 5
+                    }
+                ]
+            },
+            {
+                "Title": "Washing Machine Installation",
+                "Image": "https://i.ibb.co/f8nDYJT/washer-repair-technician.jpg",
+                "Key": [
+                    {
+                        "Name": "Washing Machine Installation",
+                        "Price": 700,
+                        "Quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 25,
+        "Title": "Kitchen Hood Repair Services",
+        "Rating": 4.67,
+        "FQA": [
+            {
+                "Will the washing machine servicing be done at home or outside ? If outside then do I have to provide additional travel allowance to the technician?": "After initial diagnosis by the technician, he will decide whether the servicing can be done at home or not based on the work scope. In case where the technician or mechanics needs to do the servicing outside home, travel allowance needs to be provided by the customers."
+            },
+            {
+                "Do you give materials or parts warranty?": "No. We do not manufacture washing machine parts by ourselves. So, the warranty differs as per manufacturer. However, we give you 7 days of free service warranty."
+            },
+            {
+                "Will the washing machine service given at home or taken by service providers?": "Usually the service is provided at home but if you want, the service can be done outside your home. But for that you need to pay travel allowance to the washing machine technician."
+            }
+        ],
+        "overview": [
+            {
+                "Service Features": [
+                    "Proper installation, diagnosis and repairing",
+                    "Professional repairing tools",
+                    "Reasonable price"
+                ]
+            },
+            {
+                "Pricing Terms": [
+                    "Only service charge",
+                    "Price will vary depending on the size, work scope, and work complexity"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Service Warranty",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Expert Skilled and Well Mannered , Very Honest",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Kitchen Hood Maintenance",
+                "Image": "https://i.ibb.co/vVCjW04/1619432473-kitchenhoodmaintenance.jpg",
+                "Key": [
+                    {
+                        "Name": "Repairing",
+                        "Price": 1000,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Installation or Dismantling",
+                        "Price": 1800,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Shifting",
+                        "Price": 2500,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Deep Cleaning",
+                        "Price": 1500,
+                        "Quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 26,
+        "Title": "Water Purifier Repair Services",
+        "Rating": 4.67,
+        "FQA": [
+            {
+                "Is the price fixed?": "The mentioned price is the starting price. However, the price may differ depending on work scope and complexity."
+            },
+            {
+                "Do you give materials or parts warranty?": "No. We do not manufacture washing machine parts by ourselves. So, the warranty differs as per manufacturer. However, we give you 7 days of free service warranty."
+            },
+            {
+                "Do I have to advance money?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through ServiceA2Z app or Cash on Delivery."
+            }
+        ],
+        "overview": [
+            {
+                "Service Features": [
+                    "New Water Purifier Installation",
+                    "Dismantling Existing Water Purifier",
+                    "Water Purifier Kits Replacement",
+                    "Water Purifier Servicing"
+                ]
+            },
+            {
+                "What's Included?": [
+                    "Professional Technician",
+                    "Doorstep service",
+                    "Service Warranty"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of additional materials or parts (if needed)",
+                    "Transportation cost for carrying new materials/parts (if applicable)",
+                    "Warranty on consumable materials/parts"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable Technicians",
+            "On Time Work Completion",
+            "24/7 Customer Support"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Expert Skilled and Well Mannered , Very Honest",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Water Purifier Repair Servicing",
+                "Image": "https://i.ibb.co/vVCjW04/1619432473-kitchenhoodmaintenance.jpg",
+                "Key": [
+                    {
+                        "Name": "Installation",
+                        "Price": 1000,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Dismantling",
+                        "Price": 800,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Kit Replacement",
+                        "Price": 500,
+                        "Quantity": 5
+                    },
+                    {
+                        "Name": "Servicing",
+                        "Price": 1000,
+                        "Quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 31,
+        "Title": "Painting Services",
+        "Rating": 4.67,
+        "FQA": [
+            {
+                "How is the cost calculated for painting walls?": "The cost is calculated based on the amount of paint used for painting walls.To help you understand we’ve added an example: A room that is 10 x 15 feet with an 9-foot ceiling. The room has two doors and two windows. Measure the total distance (perimeter) around the room. (10 ft. + 15 ft.) x 2 = 50 ft. Multiply the perimeter by the ceiling height to get the total wall area: 50 ft. x 9 ft. = 450 sq. ft. Doors are usually 21 square feet (there are two in this example): 21 sq. ft. x 2 = 42 sq. ft. Windows average 15 square feet (there are two in this example): 15 sq. ft. x 2 = 30 sq. ft. Take the total wall area and subtract the area for the doors and windows to get the wall surface to be painted: 450 sq. ft. (wall area) – 42 sq. ft. (doors) – 30 sq. ft. (windows) = 378 sq. ft. of walls that needs to be painted. You can calculate the quantity of ceiling paint needed for the ceiling by multiplying the width of the room by its length: 10 ft. x 15 ft. = 150 sq. ft. So in this example total paint surface is 528 sq. ft."
+            },
+            {
+                "What is the coverage area of the Paints?": "It usually provides a coverage of 120 - 140 square feet per litre for 1 coat and 60 - 70 square feet per litre for 2 coats on a normal masonry surface."
+            },
+            {
+                "What is the life time of the color?": "Color life span is 4 to 5 years. Hence, it depends on the wall condition."
+            },
+            {
+                "Do I need to pay for extra labor?": "For every service we will assign a proper number of laborers to complete it on time. But if you want extra labor in order to complete it early then you have to pay for extra labor."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z painting service?": [
+                    "We ensure experienced professional and expert painters",
+                    "Dismantling Existing Water PurifierWe ensure only branded products are used by experts",
+                    "We ensure proper safety and service equipment carries by expert",
+                    "We ensure proper covering before painting and cleaning after service",
+                    "We ensure cost savings for long time to our customers"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Hassle Free Painting Service",
+            "Color Consultation & Transparent Pricing",
+            "Background Checked Skilled Painter"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Interior Paint",
+                "Image": "https://i.ibb.co/TbM1zYd/painter-with-cap-painting-a-wall-with-paint-roller-and-wooden-vintage-ladder-with-copy-space.jpg",
+                "Key": [
+                    {
+                        "Name": "Plastic Paint Service Including Material",
+                        "Size": "Up to 500 SFT",
+                        "Price": 15000
+                    },
+                    {
+                        "Name": "Plastic Paint Service Including Material",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 25000
+                    },
+                    {
+                        "Name": "Plastic Paint Service Including Material",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 37800
+                    },
+                    {
+                        "Name": "Plastic Paint Service Including Material",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 47200
+                    },
+                    {
+                        "Name": "Plastic Paint Only Service",
+                        "Size": "Up to 500 SFT",
+                        "Price": 10000
+                    },
+                    {
+                        "Name": "Plastic Paint Only Service",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 14000
+                    },
+                    {
+                        "Name": "Plastic Paint Only Service",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 19800
+                    },
+                    {
+                        "Name": "Plastic Paint Only Service",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 24500
+                    },
+                    {
+                        "Name": "Distemper Paint Service Including Material",
+                        "Size": "Up to 500 SFT",
+                        "Price": 10000
+                    },
+                    {
+                        "Name": "Distemper Paint Service Including Material",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 14000
+                    },
+                    {
+                        "Name": "Distemper Paint Service Including Material",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 19800
+                    },
+                    {
+                        "Name": "Distemper Paint Service Including Material",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 24500
+                    },
+                    {
+                        "Name": "Distemper Paint Only Service",
+                        "Size": "Up to 500 SFT",
+                        "Price": 10000
+                    },
+                    {
+                        "Name": "Distemper Paint Only Service",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 16000
+                    },
+                    {
+                        "Name": "Distemper Paint Only Service",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 21800
+                    },
+                    {
+                        "Name": "Distemper Paint Only Service",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 29500
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Service Including Material",
+                        "Size": "Up to 500 SFT",
+                        "Price": 40000
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Service Including Material",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 58000
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Service Including Material",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 56800
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Service Including Material",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 108500
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Only Service",
+                        "Size": "Up to 500 SFT",
+                        "Price": 15000
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Only Service",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 24000
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Only Service",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 32500
+                    },
+                    {
+                        "Name": "Luxury Silk Paint Only Service",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 41500
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Service Including Material",
+                        "Size": "Up to 500 SFT",
+                        "Price": 43750
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Service Including Material",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 63000
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Service Including Material",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 94500
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Service Including Material",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 118000
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Only Service",
+                        "Size": "Up to 500 SFT",
+                        "Price": 15000
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Only Service",
+                        "Size": "500 SFT to 800 SFT",
+                        "Price": 21000
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Only Service",
+                        "Size": "800 SFT to 1200 SFT",
+                        "Price": 32500
+                    },
+                    {
+                        "Name": "Breath Easy Clean Paint Only Service",
+                        "Size": "1200 SFT to 1500 SFT",
+                        "Price": 41500
+                    }
+                ]
+            },
+            {
+                "Title": "Exterior Paint",
+                "Image": "https://i.ibb.co/Qb7GRpp/exterior.jpg",
+                "Key": [
+                    {
+                        "Name": "Weather Coat Anti Dirt Paint",
+                        "type": "Service Including Material",
+                        "Size": "Up to 3000 SFT",
+                        "Price": 57000
+                    },
+                    {
+                        "Name": "Weather Coat Anti Dirt Paint",
+                        "type": "Only Service",
+                        "Size": "Up to 3000 SFT",
+                        "Price": 21000
+                    },  {
+                        "Name": "Weather Coat Smooth",
+                        "type": "Service Including Material",
+                        "Size": "Up to 3000 SFT",
+                        "Price": 48000
+                    },
+                    {
+                        "Name": "Weather Coat Smooth",
+                        "type": "Only Service",
+                        "Size": "Up to 3000 SFT",
+                        "Price": 21000
+                    }
+                ]
+            },
+            {
+                "Title": "Damp Repair Solution",
+                "Image": "https://i.ibb.co/MVXd9nT/damp-wall.png",
+                "Key": [
+                    {
+                        "Name": "Damp Wall Repair Permanent Solution",
+                        "Size": "Up to 50 SFT",
+                        "Price": 7000
+                    },
+                    {
+                        "Name": "Roof Water Leakage Repair",
+                        "Size": "Up to 50 SFT",
+                        "Price": 12500
+                    }
+                ]
+            },
+            {
+                "Title": "Wood & Furniture Paint",
+                "Image": "https://i.ibb.co/ZSddb4b/furniture-makeover.jpg",
+                "Key": [
+                    {
+                        "Name": "Lacquar Varnish",
+                        "Size": "Up to 50 SFT",
+                        "Price": 7500
+                    },
+                    {
+                        "Name": "Hand Polish (Varnish Paint)",
+                        "Size": "Up to 50 SFT",
+                        "Price": 3500
+                    },
+                    {
+                        "Name": "Spray or Docu paint",
+                        "Size": "Up to 50 SFT",
+                        "Price": 9000
+                    }
+                ]
+            },
+            {
+                "Title": "Enamel Paint",
+                "Image": "https://i.ibb.co/MpW4mG9/Enamel-Paint.jpg",
+                "Key": [
+                    {
+                        "Name": "New Surface",
+                        "Size": "Up to 300 SFT",
+                        "Price": 4800
+                    },
+                    {
+                        "Name": "Re-Paint on Old Surface",
+                        "Size": "Up to 300 SFT",
+                        "Price": 4500
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 32,
+        "Title": "Carpentry Services",
+        "Rating": 4.55,
+        "FQA": [
+            {
+                "Is the mentioned price fixed?": "The mentioned price is the starting pricing. Pricing differs depending on the work scope and complexity after visiting the location or communicating with the service provider."
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile then you have to pay through Sheba.xyz app or Cash on Delivery. Hence, For Furniture making you need pay 50% advance to start the making and rest 50% upon delivery of products. If anything goes wrong sheba.xyz designated service provide will return your advance money within next 7 working days. Sheba.xyz has full customer protection during any payment."
+            },
+            {
+                "How the price will be calculated?": "The price mostly depends on type of material you select, size of the material, complexity of the design. however we provide total transparency and up front pricing to protect your needs."
+            },
+            {
+                "Is there any visiting charge if i need to cancel the order?": "If you need to cancel any order after you placed order for any reason you need to cancel 1 hour prior to service provider visit your place. If not you may have to pay 250 TK as a visiting charge to the expert."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z painting service?": [
+                    "Background checked & professional experts at your door step",
+                    "Quick solution and on demand service any time in 180 mins",
+                    "Convenient service delivery and hassle free experience",
+                    "Proper quality maintenance and reliability",
+                    "Proper justification of work and material to reduce over price"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Quick Response & On Time Work Completion",
+            "Background Checked Skilled Carpenters",
+            "Proper Inspection & Quality Ensured"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Furniture Repair & Fixes",
+                "Image": "https://i.ibb.co/R63GrKv/furniture-repair-workshop-Hero.jpg",
+                "Key": [
+                    {
+                        "Name": "Up to 2 Hour",
+                        "Price": 700
+                    },
+                    {
+                        "Name": "3 Hour to 5 Hour",
+                        "Price": 1000
+                    },
+                    {
+                        "Name": "6 Hour to 8 Hour",
+                        "Price": 1200
+                    }
+                ]
+            },
+            {
+                "Title": "Furniture Paint & Polish Service",
+                "Image": "https://i.ibb.co/FKrJ1Dx/Wood-Polish.jpg",
+                "Key": [
+                    {
+                        "Name": "Lacquar Varnish",
+                        "Size": "Up to 50 SFT",
+                        "Price": 7000
+                    },
+                    {
+                        "Name": "High Polish (Varnish Paint)",
+                        "Size": "Up to 50 SFT",
+                        "Price": 3200
+                    },
+                    {
+                        "Name": "Spray or Docu Paint",
+                        "Size": "Up to 50 SFT",
+                        "Price": 9000
+                    }
+                ]
+            },
+            {
+                "Title": "Furniture Cover & Foam Repair",
+                "Image": "https://i.ibb.co/FKrJ1Dx/Wood-Polish.jpg",
+                "Key": [
+                    {
+                        "Name": "Fixed Foam/Leather/Velvet Sofa",
+                        "Price": 2400
+                    },
+                    {
+                        "Name": "Non-Fixed Regular Sofa", 
+                        "Price": 1500
+                    },
+                    {
+                        "Name": "Chair Cover & Foam", 
+                        "Price": 400
+                    }
+                ]
+            },
+            {
+                "Title": "Furniture Assemble & Fitting",
+                "Image": "https://i.ibb.co/MfMXnpQ/assembly-1.jpg",
+                "Key": [
+                    {
+                        "Name": "Regular Furniture",
+                        "Price": 800
+                    },
+                    {
+                        "Name": "Fixed and Wall Mounted Furniture", 
+                        "Price": 1500
+                    },
+                    {
+                        "Name": "Door Palla", 
+                        "Price": 700
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 33,
+        "Title": "Renovation & Decor",
+        "Rating": 4.55,
+        "FQA": [
+            {
+                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+            },
+            {
+                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Proper Inspection & Quality Ensured",
+            "Most Reliable Renovation Service in Town",
+            "Upfront Consultation & Project Supervision"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Tiles Fitting & Pasting",
+                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Key": [
+                    {
+                        "Name": "Tiles Fitting",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Tiles Re-Fitting",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "Wallpaper Pasting Service",
+                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Wallpaper",
+                        "Size": "Up to 50 SFT",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Wall Paneling Works",
+                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Key": [
+                    {
+                        "Name": "PVC Wall Panel",
+                        "Size": "Up to 100 SFT",
+                        "Price": 28000
+                    },
+                    {
+                        "Name": "PVC Wall Foam", 
+                        "Size": "Up to 100 SFT",
+                        "Price": 7500
+                    }
+                ]
+            },
+            {
+                "Title": " Artificial Wood & Grass Floor",
+                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
+                "Key": [
+                    {
+                        "Name": "Artificial Wooden Floor",
+                        "Size": "Each SFT",
+                        "Price": 160
+                    },
+                    {
+                        "Name": "Artificial Grass Matt",
+                        "Size": "Each SFT",
+                        "Price": 180
+                    }
+                ]
+            }
+        ]
+    },
+            // ekhan theke change korte hobe  .............
+    {
+        "parentService": 91,
+        "Title": "Desktop Services",
+        "Rating": 4.68,
+        "FQA": [
+            {
+                "What is the purpose of Desktop Services?": "To build & redesign your old Desktop by changing the structure, looks, design or repair existing."
+            },
+            {
+                "How the service cost calculated?": "The repair of existing Desktop services cost depends on material/parts and man hour requires to complete the services. Expert will analyse the requirements and provide quotation based on  clients required."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Proper Inspection & Quality Ensured",
+            "Most Reliable Renovation Service in Town",
+            "Upfront Consultation & Project Supervision"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.Knows his work",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Need to do something about the Operating System. Keep facing problem.Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "https://thumbs.dreamstime.com/b/computer-repair-engineer-pc-electronic-hardware-shop-performing-laptop-maintenance-developer-fixing-components-technology-145668303.jpg",
+                "Key": [
+                    {
+                        "Name": "Ram Replace",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Processor ",
+                        "Price": 24000
+                    }
+                ]
+            },
+            {
+                "Title": "Monitor Change",
+                "Image": "skyland.com.bd/wp-content/uploads/2020/05/asus-tuf-gaming-vg27aq-monitor-price-500x500-2.jpg",
+                "Key": [
+                    {
+                        "Name": "Asus TUF ",
+                        "Size": "28 inch",
+                        "Price": 29000
+                    }
+                ]
+            },
+            {
+                "Title": "Full HD+ Gaming",
+                "Image": "skyland.com.bd/wp-content/uploads/2020/05/asus-tuf-gaming-vg27aq-monitor-price-500x500-2.jpg",
+                "Key": [
+                    {
+                        "Name": "Asus TUF",
+                        "Size": "24 inch",
+                        "Price": 28000
+                    },
+                    {
+                        "Name": "Asus TUF", 
+                        "Size": "21 inch",
+                        "Price": 22000
+                    }
+                ]
+            },
+            {
+                "Title": " Keyboard",
+                "Image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Sharkoon_SKILLER_SGK50_S4_60_percent_mechanical_keyboard.jpg",
+                "Key": [
+                    {
+                        "Name": "Rapoo V52 Backlit Gaming Keyboard White",
+                        "Size": "Big",
+                        "Price": 12000
+                    },
+                    {
+                        "Name": "Rapoo V52 Backlit Gaming Keyboard Black",
+                        "Size": "Big",
+                        "Price": 10000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 92,
+        "Title": "Laptop Servicing",
+        "Rating": 4.77,
+        "FQA": [
+            {
+                "What is the purpose of Laptop Servicing?": "To help you repair or upgrade your existing laptop also help you to buy the perfect laptop for your need"
+            },
+            {
+                "How the service cost calculated?": "For buying it depends on the accessories market price and for servicing it only cost you the fee of provider"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Display Change",
+            "Motherboard fix or replace",
+            "Upgrading RAM and ROM"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Totally satisfied with the service, Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Brilliant and efficient service. Knows their work perfectly, Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Display Changing",
+                "Image": "http://laptopaccessoriesbd.com/wp-content/uploads/2016/10/reproducao.jpg",
+                "Key": [
+                    {
+                        "Name": "Fixing your Display issue",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Replace the Display",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "FIxing your laptops motherboard",
+                "Image": "https://www.skyland.com.bd/wp-content/uploads/2020/05/gigabyte-b550-aorus-elite-motherboard-bd-price.jpg",
+                "Key": [
+                    {
+                        "Name": "Full motherboard replace",
+                        "Size": "",
+                        "Price": 30000
+                    }
+                ]
+            },
+            {
+                "Title": "Upgrading RAM ",
+                "Image": "https://i.ytimg.com/vi/pcBwnb8rENQ/maxresdefault.jpg",
+                "Key": [
+                    {
+                        "Name": "Upgrading RAM ",
+                        "Size": "Up to 16 GB",
+                        "Price": 8000
+                    },
+                    {
+                        "Name": "Upgrading RAM", 
+                        "Size": "Up to 8 GB",
+                        "Price": 4000
+                    }
+                ]
+            },
+            {
+                "Title": " Upgrading ROM",
+                "Image": "https://i.ytimg.com/vi/pcBwnb8rENQ/maxresdefault.jpg",
+                "Key": [
+                    {
+                        "Name": "Upgrading ROM",
+                        "Size": "Up to 2 TB",
+                        "Price": 6000
+                    },
+                    {
+                        "Name": "Upgrading ROM",
+                        "Size": "Up to 1 TB",
+                        "Price": 3000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 93,
+        "Title": "CCTV Camera Servicing",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of CCTV Camera Servicing?": "To provide a better security for your house , office and business so that you can monitor everything in your place."
+            },
+            {
+                "How the service cost calculated?": "Depends on the hardware and the package you are taking and also the servicing cost of the service."
+            }
+    
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Proper Inspection & Quality Ensured ",
+            "Most Reliable Service in Town",
+            "Upfront Consultation "
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours.Some of the camera got some issue please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "DOes their job perfectly . Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "CCTV camera for your house",
+                "Image": "https://de927adv5b23k.cloudfront.net/wp-content/uploads/2017/10/03193142/shutterstock_191465990.jpg",
+                "Key": [
+                    {
+                        "Name": "Camera price and service cost",
+                        "Price": 25000
+                    },
+                    {
+                        "Name": "Camera Refitting",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "Camera Problem",
+                "Image": "https://www.bdstall.com/asset/product-image/giant_88375.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality CCTV",
+                        
+                        "Price": 15500
+                    }
+                ]
+            },
+            {
+                "Title": "Replacement Everything",
+                "Image": "https://www.bdstall.com/asset/product-image/giant_147499.jpg",
+                "Key": [
+                    {
+                        "Name": "Monitor setup",
+                        
+                        "Price": 3000
+                    },
+                    {
+                        "Name": "Camera setup BASIC package",
+                        
+                        "Price": 15000
+                    },
+                    {
+                        "Name": "Camera setup PREMIMUM package",
+                        
+                        "Price": 22000
+                    }
+                ]
+            },
+            {
+                "Title": " Storage and Online availability ",
+                "Image": "https://rukminim1.flixcart.com/image/416/416/jw3umq80/home-security-camera/q/y/t/night-vision-cctv-inbuilt-dvr-with-memory-card-slot-recording-original-imafehm874nygfgt.jpeg?q=70",
+                "Key": [
+                    {
+                        "Name": "Storage ",
+                        "Size": "1 TB",
+                        "Price": 2000
+                    },
+                    {
+                        "Name": "Storage ",
+                        "Size": "512 GB",
+                        "Price": 1000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 101,
+        "Title": "Wedding Specials",
+        "Rating": 4.97,
+        "FQA": [
+            {
+                "What is the purpose of Wedding Specials?": "To give you the best look of yourself. You are already beautiful but we are here to make your look the best of you"
+            },
+            {
+                "How the service cost calculated?": "The Wedding Specials cost depends on the package you choose. Also you can change the service from the package and choose your own design so the package cost and the service cost"
+            },
+            {
+                "Can I change Design from the package?": " Yes, you can. Also you can choose your own design"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost.",
+                    "Home Service available"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Bridal look",
+            "Look for Gaye Holud"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "5",
+                "review": "Very expert ",
+                "id": "ID",
+                "user": "ID"
+            },
+           
+            {
+                "rating": "4.5",
+                "review": "Best service that I got.Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Bridal Look",
+                "Image": "https://i0.wp.com/shaadiwish.com/blog/wp-content/uploads/2021/11/bridal-jewellery-1.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium",
+                        "Price": 22000
+                    },
+                    {
+                        "Name": "Gold ",
+                        "Price": 18000
+                    },
+                    {
+                        "Name": "Silver ",
+                        "Price": 14000
+                    }
+                ]
+            },
+            {
+                "Title": "Holud Shaj",
+                "Image": "https://i.ytimg.com/vi/WRwH97aDR2k/hqdefault.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Package",
+                        
+                        "Price": 11000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 102,
+        "Title": "Beauty Packages",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of Beauty Packages?": "To maintain your beauty and pampered yourself"
+            },
+            {
+                "How the service cost calculated?": "Price of the item and package also the single product and extra charge for home delivery"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Skin Care",
+            "Hair Care",
+            "Dry Skin ",
+            "Normal Skin ",
+            "Oily Skin "
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the products.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very helpful",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Need more information about the products. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Skin care",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2022/02/1-4-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Moisturizer",
+                        "Price": 500
+                    },
+                    {
+                        "Name": "Special Care",
+                        "Price": 1700
+                    }
+                ]
+            },
+            {
+                "Title": "Hair Care",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2022/02/1-5-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Scalp Care",
+                        
+                        "Price": 700
+                    }
+                ]
+            },
+            {
+                "Title": "Hair care for growth and glowing",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2022/01/arusha-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Apple Cider Large",
+                        "Size": "Full pack",
+                        "Price": 1200
+                    },
+                    {
+                        "Name": "Apple Cider Mini", 
+                        "Size": "Mini pack",
+                        "Price": 700
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 103,
+        "Title": "Mehendi Design",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of Mehendi Design?": "To make your look more beautiful also for bridal look and others"
+            },
+            {
+                "How the service cost calculated?": "Designer Cost and the design cost for the service"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Professional Bridal Mehendi Design",
+            "Deep Mehendi Color"/// ekhane change korte hobe
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service and Design. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            
+            {
+                "rating": "4.5",
+                "review": "Loved with the work. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [ 
+            {
+                "Title": "Professional Bridal Mehendi",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2015/11/cover.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Basic",
+                        "Price": 2000
+                    }
+                ]
+            },
+            {
+                "Title": "Deep Colored Mehendi",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2013/07/Mehndi-hands-.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium",
+                        "Price": 3000
+                    },
+                    {
+                        "Name": "Basic",
+                        "Price": 1000
+                    }
+                ]
+            }
+           
+        ]
+    },
+    {
+        "parentService": 104,
+        "Title": "Makeover for Women",
+        "Rating": 4.81,
+        "FQA": [
+  
+            {
+                "How the service cost calculated?": "Makeover materials and the artists cost"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Chokher Shaj",
+            "Base Makeup",
+            "Thoter Shaj"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Based Makeup",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2021/11/1-71-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Foundation Right shade",
+                        "Price": 4000
+                    }
+                ]
+            },
+            {
+                "Title": "Chokher Shaj",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2020/09/kajal-3-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Items",
+                        "Size": "Large Package",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Thoter Shaj",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2020/09/3-1-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Full Package",
+                        "Price": 2000
+                    },
+                    {
+                        "Name": "Half Package", 
+                        "Price": 1200
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 105,
+        "Title": "Personal Beauty Care",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of Personal Beauty Care?": "To care yourself with or without the help of other people/artist. Here you can choose your package artist and products "
+            },
+            {
+                "How the service cost calculated?": "The package you choose also the products. Price varies from package to package with the products"
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Skin care products after the age of 30",
+            "Anti aging face mask treatment",
+            "Anti aging facial"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Anti aging facial",
+                "Image": "https://stylesatlife.com/wp-content/uploads/2019/08/Anti-Aging-Facial-Exercises.jpg",
+                "Key": [
+                    {
+                        "Name": "Facial with Body",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Facial Only",
+                        "Price": 2000
+                    }
+                ]
+            },
+            {
+                "Title": "Anti aging face mask",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2021/10/6-11-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Anti aging face mask",
+                        "Size": "Full face mask",
+                        "Price": 1700
+                    }
+                ]
+            },
+            {
+                "Title": "Anti aging Skincare",
+                "Image": "https://www.shajgoj.com/wp-content/uploads/2019/12/5-3-700x431.jpg",
+                "Key": [
+                    {
+                        "Name": "Full package",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Half package",
+                        "Price": 2000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 111,
+        "Title": "Cleaning Packages",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                    "Does the deep stain remove from carpet?":"Yes if the mark is not permanent then it will be removed"
+            },
+            {
+                    "Do you use any machine to clean sofa?":"For sofa and carpet nearly 80% will be dry by the machine"
+            },
+            {
+                    "How much percentage it will dry?":"For sofa and carpet nearly 80% will be dry by the machine"
+            },
+            {
+                    "Does cushions are include in sofa clean?":"It's not included in sofa clean. for the cushions, it will take extra charge"
+            }
+            
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Best Service at an Affordable Price",
+            "Trusted and Experienced Cleaner",
+            "Best Quality Cleaning Accessories"
+           
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "arrived on time, well mannered, honest 5 star to Ali Bhai",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very thorough and efficient. Thank you!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Excellent and mind blowing professional cleaning service which satisfied me because of their dedication on work and well manners. Thanks and Best wishes.",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Sofa + Chair Clean Package",
+                "Image": "https://i.ibb.co/xjGGJQY/house-cleaning.jpg",
+                "Key": [
+                    {
+                        "Name": "3 seat Sofa + 3 Seat Chair",
+                        "Price": 1190
+                    },
+                    {
+                        "Name": "4 seat Sofa + 4 Seat Chair",
+                        "Price": 1455
+                    },
+                    {
+                        "Name": "5 seat Sofa + 5 Seat Chair",
+                        "Price": 1660
+                    },
+                    {
+                        "Name": "5 seat Sofa + 6 Seat Chair",
+                        "Price": 1800
+                    }
+                ]
+            },
+           
+            {
+                "Title": "Bathroom+Sofa Cleaning Packages",// ekhan theke kaj korte hobe
+                "Image": "https://i.ibb.co/xjGGJQY/house-cleaning.jpg",
+                "Key": [
+                    {
+                        "Name": "1 Bathroom + 5 Seater Sofa Cleaning",
+                        "Price": 1899
+                    },
+                    
+                    {
+                        "Name": "2 Bathroom + 5 Seater Sofa Cleaning",
+                        "Price": 2499
+                    },
+                    {
+                        "Name": "3 Bathroom + 5 Seater Sofa Cleaning",
+                        "Price": 3199
+                    },
+                    
+                    {
+                        "Name": "1 Bathroom + 6 Seater Sofa Cleaning",
+                        "Price": 2149
+                    }
+                    
+                ]
+            },
+            {
+                "Title": " Bathroom+Kitchen Deep Clean Package",
+                "Image": "https://i.ibb.co/0G8rMbj/creative-home-deep-cleaning-tips.jpg",
+                "Key": [
+                    {
+                        "Name": "1 Bathroom + 1 Kitchen",
+                        "Price": 1600
+                    },
+                    {
+                        "Name": "2 Bathroom + 1 Kitchen",
+                        "Price": 2600
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 112,
+        "Title": "Home Cleaning",
+        "Rating": 4.71,
+        "FQA": [
+            {
+                "Does the price include cleaning material and equipment charge?": "Yes. All kinds of material cost for cleaning services is included in the price declared."
+            },
+            {
+                "What if something goes wrong after availing a service from Sheba?": "If anything goes wrong after availing a particular through Sheba. A tri-party investigation will be launched (which will involve Sheba, service partner and the customer).After completion of a transparent investigation. Detection and rectification of the issue will be made.                "
+            },
+            {
+                "Does the price include cleaning material and equipment charge?": "Yes. All kinds of material cost for cleaning services is included in the price declared."
+            },
+            {
+                "Is the price Subjected to Fluctuation depending on work scope?": "The prices declared are estimated and may vary depending on the complexity of work"
+            }
+           
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "On Time Work Completion",
+            "Trusted and Experienced Cleaner",
+            "Best Quality Cleaning Accessories"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "arrived on time, well mannered, honest 5 star",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very thorough and efficient. Thank you!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Excellent and mind blowing professional cleaning service which satisfied me because of their dedication on work and well manners. Thanks and Best wishes.",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Common Space Cleaning ",
+                "Key": [
+                    {
+                        "Name": "Roof top cleaning",
+                        "space": "sqft",
+                        "Price": 2.5
+                    },
+                    {
+                        "Name": "Basement cleaning",
+                        "space": "sqft",
+                        "Price": 3.5
+                    },
+                    {
+                        "Name": "Lobby/Reception",
+                        "space": "sqft",
+                        "Price":  4
+                    },
+                    {
+                        "Name": "Stairs",
+                        "space": "sqft",
+                        "Price":  4
+                    }
+                ]
+            },
+            {
+                "Title": "Home Deep Clean",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Wallpaper",
+                        "Size": "Up to 50 SFT",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Wall Paneling Works",
+                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Key": [
+                    {
+                        "Name": "Upto 800sft",
+                        "Price": 2975
+                    },
+                    {
+                        "Name": "800 to 1200 sft",
+                        "Price": 3975
+                    },
+                    {
+                        "Name": "1200 to 1600 sft",
+                        "Price": 4670
+                    },
+                    {
+                        "Name": "1600 to 2000 sft",
+                        "Price": 5610
+                    }
+                   
+                ]
+            },
+            {
+                "Title": " Floor Deep Cleaning for Home",
+                "Key": [
+                    {
+                        "Name": "Tiles",
+                        "Size": "Each SFT",
+                        "Price": 3
+                    },
+                    {
+                        "Name": "Marble",
+                        "Size": "Each SFT",
+                        "Price": 5
+                    },
+                    {
+                        "Name": "Mosaic",
+                        "Size": "Each SFT",
+                        "Price": 4
+                    },
+                    {
+                        "Name": "Wooden",
+                        "Size": "Each SFT",
+                        "Price": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 113,
+        "Title": "Furniture Cleaning",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+            },
+            {
+                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+           " On Time Work Completion",
+            "CheckTrusted and Experienced Cleaner",
+            "CheckBest Quality Cleaning Accessories"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "good mannered and very helpful",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "অনেক সুন্দর সার্ভিস। ব্যাবহার ও অনেক ভালো।",// ekhan theke korte hobe
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Tiles Fitting & Pasting",
+                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Key": [
+                    {
+                        "Name": "Tiles Fitting",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Tiles Re-Fitting",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "Wallpaper Pasting Service",
+                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Wallpaper",
+                        "Size": "Up to 50 SFT",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Wall Paneling Works",
+                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Key": [
+                    {
+                        "Name": "PVC Wall Panel",
+                        "Size": "Up to 100 SFT",
+                        "Price": 28000
+                    },
+                    {
+                        "Name": "PVC Wall Foam", 
+                        "Size": "Up to 100 SFT",
+                        "Price": 7500
+                    }
+                ]
+            },
+            {
+                "Title": " Artificial Wood & Grass Floor",
+                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
+                "Key": [
+                    {
+                        "Name": "Artificial Wooden Floor",
+                        "Size": "Each SFT",
+                        "Price": 160
+                    },
+                    {
+                        "Name": "Artificial Grass Matt",
+                        "Size": "Each SFT",
+                        "Price": 180
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 114,
+        "Title": "Virus Disinfection Service",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+            },
+            {
+                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Proper Inspection & Quality Ensured",
+            "Most Reliable Renovation Service in Town",
+            "Upfront Consultation & Project Supervision"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Tiles Fitting & Pasting",
+                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Key": [
+                    {
+                        "Name": "Tiles Fitting",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Tiles Re-Fitting",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "Wallpaper Pasting Service",
+                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Wallpaper",
+                        "Size": "Up to 50 SFT",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Wall Paneling Works",
+                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Key": [
+                    {
+                        "Name": "PVC Wall Panel",
+                        "Size": "Up to 100 SFT",
+                        "Price": 28000
+                    },
+                    {
+                        "Name": "PVC Wall Foam", 
+                        "Size": "Up to 100 SFT",
+                        "Price": 7500
+                    }
+                ]
+            },
+            {
+                "Title": " Artificial Wood & Grass Floor",
+                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
+                "Key": [
+                    {
+                        "Name": "Artificial Wooden Floor",
+                        "Size": "Each SFT",
+                        "Price": 160
+                    },
+                    {
+                        "Name": "Artificial Grass Matt",
+                        "Size": "Each SFT",
+                        "Price": 180
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "parentService": 115,
+        "Title": "Tank & Pipe Cleaning Service",
+        "Rating": 4.81,
+        "FQA": [
+            {
+                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+            },
+            {
+                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
+            }
+        ],
+        "overview": [
+            {
+                "Why take serviceA2Z renovation  service?": [
+                    "Background checked, well trained Renovation experts.",
+                    "Professional service at your doorstep.",
+                    "Convenient service delivery.",
+                    "Proper hygiene maintenance.",
+                    "High-end products and accessories.",
+                    "Upfront pricing and no hidden cost."
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Proper Inspection & Quality Ensured",
+            "Most Reliable Renovation Service in Town",
+            "Upfront Consultation & Project Supervision"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Very happy with the service. Great work!",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "Very expert & well mannered.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "Tiles Fitting & Pasting",
+                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Key": [
+                    {
+                        "Name": "Tiles Fitting",
+                        "Price": 4000
+                    },
+                    {
+                        "Name": "Tiles Re-Fitting",
+                        "Price": 7000
+                    }
+                ]
+            },
+            {
+                "Title": "Wallpaper Pasting Service",
+                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
+                "Key": [
+                    {
+                        "Name": "Premium Quality Wallpaper",
+                        "Size": "Up to 50 SFT",
+                        "Price": 4700
+                    }
+                ]
+            },
+            {
+                "Title": "Wall Paneling Works",
+                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Key": [
+                    {
+                        "Name": "PVC Wall Panel",
+                        "Size": "Up to 100 SFT",
+                        "Price": 28000
+                    },
+                    {
+                        "Name": "PVC Wall Foam", 
+                        "Size": "Up to 100 SFT",
+                        "Price": 7500
+                    }
+                ]
+            },
+            {
+                "Title": " Artificial Wood & Grass Floor",
+                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
+                "Key": [
+                    {
+                        "Name": "Artificial Wooden Floor",
+                        "Size": "Each SFT",
+                        "Price": 160
+                    },
+                    {
+                        "Name": "Artificial Grass Matt",
+                        "Size": "Each SFT",
+                        "Price": 180
+                    }
+                ]
+            }
+        ]
+    }
+]
