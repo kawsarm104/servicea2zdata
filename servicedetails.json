@@ -2387,7 +2387,7 @@
         ],
         "mainFeatures": [
             "Professional Bridal Mehendi Design",
-            "Deep Mehendi Color"/// ekhane change korte hobe
+            "Deep Mehendi Color"
         ],
         "Reviews": [
             {
@@ -2688,7 +2688,7 @@
             },
            
             {
-                "Title": "Bathroom+Sofa Cleaning Packages",// ekhan theke kaj korte hobe
+                "Title": "Bathroom+Sofa Cleaning Packages",
                 "Image": "https://i.ibb.co/xjGGJQY/house-cleaning.jpg",
                 "Key": [
                     {
@@ -2908,78 +2908,57 @@
             },
             {
                 "rating": "4",
-                "review": "অনেক সুন্দর সার্ভিস। ব্যাবহার ও অনেক ভালো।",// ekhan theke korte hobe
+                "review": "অনেক সুন্দর সার্ভিস। ব্যাবহার ও অনেক ভালো।",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4.5",
-                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "review": "cleaning crew from better everclean service",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4.5",
-                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "review": "Professional and very swift service. RECOMMENDED!",
                 "id": "ID",
                 "user": "ID"
             }
         ],
         "allServices": [
             {
-                "Title": "Tiles Fitting & Pasting",
-                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Title": "Sofa cleaning",
+                
+                "Image": "https://i.ibb.co/McYKJz6/1635739115-sofacleaning.jpg",
                 "Key": [
                     {
-                        "Name": "Tiles Fitting",
-                        "Price": 4000
+                        "Name": "5 Seat Sofa Cleaning",
+                        "Price": 1100
                     },
                     {
-                        "Name": "Tiles Re-Fitting",
-                        "Price": 7000
-                    }
-                ]
-            },
-            {
-                "Title": "Wallpaper Pasting Service",
-                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
-                "Key": [
+                        "Name": "6 Seat Sofa Cleaning",
+                        "Price": 1200
+                    },
                     {
-                        "Name": "Premium Quality Wallpaper",
-                        "Size": "Up to 50 SFT",
-                        "Price": 4700
+                        "Name": "8 Seat Sofa Cleaning",
+                        "Price": 1400
+                    },
+                    {
+                        "Name": "10 Seat Sofa Cleaning",
+                        "Price": 1600
                     }
+                  
                 ]
             },
+    
             {
-                "Title": "Wall Paneling Works",
-                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
+                "Title": "Carpet cleaning",
+                "Image": "https://i.ibb.co/SVk0cCy/1635739132-carpetcleaning.jpg",
                 "Key": [
                     {
                         "Name": "PVC Wall Panel",
-                        "Size": "Up to 100 SFT",
-                        "Price": 28000
-                    },
-                    {
-                        "Name": "PVC Wall Foam", 
-                        "Size": "Up to 100 SFT",
-                        "Price": 7500
-                    }
-                ]
-            },
-            {
-                "Title": " Artificial Wood & Grass Floor",
-                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
-                "Key": [
-                    {
-                        "Name": "Artificial Wooden Floor",
-                        "Size": "Each SFT",
-                        "Price": 160
-                    },
-                    {
-                        "Name": "Artificial Grass Matt",
-                        "Size": "Each SFT",
-                        "Price": 180
+                        "Size": "per sqft",
+                        "Price": 5.95
                     }
                 ]
             }
@@ -2991,10 +2970,20 @@
         "Rating": 4.81,
         "FQA": [
             {
-                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+                "What is 'Safety Ensured'?":
+                "Safety Ensured, as in we are well-equipped and well-prepared to serve you while maintaining the Coronavirus prevention. " 
             },
             {
-                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
+                "What measures has been taken for 'Safety Ensured'?":
+                "Our preparations include-<br /><br />In case of any illness (Fever, sneezing, breathing problem), service specialists are being held from providing service.<br />Ensuring the necessary protective equipment (masks, hand sanitizers, gloves, etc.).<br />Instruction to use hand sanitizers before entering your home, before starting the work and after the work is done.<br />Instruction to disinfect the instruments before and after the work.<br />Instruction to maintain social distancing.."    
+            },
+            {
+                "How can I protect myself and others when using disinfectants?":
+                "At the disinfection time, no one will allow at that place. "  
+            },
+            {
+                "How much time it will take to disinfection?":
+                "It depends on the area"
             }
         ],
         "overview": [
@@ -3010,92 +2999,58 @@
             }
         ],
         "mainFeatures": [
-            "Proper Inspection & Quality Ensured",
-            "Most Reliable Renovation Service in Town",
-            "Upfront Consultation & Project Supervision"
+            "Expertise",
+"CheckA Prompt and Convenient Service Experience.",
+"CheckTrusted and Professional Team"
         ],
         "Reviews": [
             {
                 "rating": "5",
-                "review": "Very happy with the service. Great work!",
+                "review": "Thank you, very efficient!",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4",
-                "review": "Very expert & well mannered.",
+                "review": "very good behavior and consistent work",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4.5",
-                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "review": "price and service is not satisfactory.",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4.5",
-                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "review": "well behaved and good service. recommended!",
                 "id": "ID",
                 "user": "ID"
             }
         ],
         "allServices": [
             {
-                "Title": "Tiles Fitting & Pasting",
-                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Title": "Disinfecting Home & Office",
+                "Image": "https://i.ibb.co/pbp8F3z/1617856412-virusdisinfectionservice.jpg",
                 "Key": [
                     {
-                        "Name": "Tiles Fitting",
-                        "Price": 4000
+                        "Name": "800-1200 SFT",
+                        "Price": 1620
                     },
                     {
-                        "Name": "Tiles Re-Fitting",
-                        "Price": 7000
-                    }
-                ]
-            },
-            {
-                "Title": "Wallpaper Pasting Service",
-                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
-                "Key": [
-                    {
-                        "Name": "Premium Quality Wallpaper",
-                        "Size": "Up to 50 SFT",
-                        "Price": 4700
-                    }
-                ]
-            },
-            {
-                "Title": "Wall Paneling Works",
-                "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
-                "Key": [
-                    {
-                        "Name": "PVC Wall Panel",
-                        "Size": "Up to 100 SFT",
-                        "Price": 28000
+                        "Name": "1200 - 1600 SFT",
+                        "Price": 2160
                     },
                     {
-                        "Name": "PVC Wall Foam", 
-                        "Size": "Up to 100 SFT",
-                        "Price": 7500
-                    }
-                ]
-            },
-            {
-                "Title": " Artificial Wood & Grass Floor",
-                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
-                "Key": [
-                    {
-                        "Name": "Artificial Wooden Floor",
-                        "Size": "Each SFT",
-                        "Price": 160
+                        "Name": "1600-2000 SFT",
+                        "Price": 2520
                     },
                     {
-                        "Name": "Artificial Grass Matt",
-                        "Size": "Each SFT",
-                        "Price": 180
+                        "Name": "2000 - 2500 SFT",
+                        "Price": 2999
                     }
+                   
                 ]
             }
         ]
@@ -3106,11 +3061,21 @@
         "Rating": 4.81,
         "FQA": [
             {
-                "What is the purpose of renovation?": "To remodel & redesign your old property of house, office or any other space by changing the structure, looks, design or repair existing and increase value, beautification, comfort and personal preferences."
+                "How long does it take to clean?":
+"This depends on the size of water tanks, work scope and complexity. Our service provider will try to complete cleaning your tank within 3-6 hours."
             },
             {
-                "How the service cost calculated?": "The renovation & repair of existing property services cost depends on material and man hour requires to complete the services. Expert will visit and analyse the requirements and provide quotation based on square feet or Job unit required."
-            }
+                "Does my tank need to be empty for you to clean it?":
+"Yes. Water tank needs to be kept empty prior to the service delivery"
+ },
+            {
+                "How long do I have to wait after you clean my tank in order to use it again?":
+"You can start using your tank right after we are done with cleaning."
+},
+            {
+                "How much does it cost to clean a tank?":
+"It depends on the size and types of the tank"
+ }
         ],
         "overview": [
             {
@@ -3125,9 +3090,9 @@
             }
         ],
         "mainFeatures": [
-            "Proper Inspection & Quality Ensured",
-            "Most Reliable Renovation Service in Town",
-            "Upfront Consultation & Project Supervision"
+            "On Time Work Completion",
+            "CheckTrusted and Experienced Cleaner",
+            "CheckBest Quality Cleaning Accessories"
         ],
         "Reviews": [
             {
@@ -3144,72 +3109,80 @@
             },
             {
                 "rating": "4.5",
-                "review": "still the same after few hours . our refrigerator is not cooling quietly . please do something about it. Thank you",
+                "review": "They didn’t clean the surrounding spaces properly dirt by themself during cleaning operation.",
                 "id": "ID",
                 "user": "ID"
             },
             {
                 "rating": "4.5",
-                "review": "Briliant and efficient service. I love my walls done so super quickly and professionally. Thank you",
+                "review": "Thanks for the hard work",
                 "id": "ID",
                 "user": "ID"
             }
         ],
         "allServices": [
             {
-                "Title": "Tiles Fitting & Pasting",
-                "Image": "https://i.ibb.co/Lt15crD/tiles-fitting.jpg",
+                "Title": "Septic Tank Cleaning",
+                "Image": "https://i.ibb.co/Lk6JpH1/1617273795-septictankcleaning.jpg",
                 "Key": [
                     {
-                        "Name": "Tiles Fitting",
-                        "Price": 4000
+                        "Name": "Septic Tank Cleaning",
+                        "size":"cft",
+                        "Price": 9.90
                     },
                     {
-                        "Name": "Tiles Re-Fitting",
-                        "Price": 7000
-                    }
-                ]
-            },
-            {
-                "Title": "Wallpaper Pasting Service",
-                "Image": "https://i.ibb.co/Bsbp3gf/wallpaper-installations.jpg",
-                "Key": [
+                        "Name": "PVC Water Tank Cleaning",
+                        "size":"piece",
+                        "Price": 1120
+                    },
                     {
-                        "Name": "Premium Quality Wallpaper",
-                        "Size": "Up to 50 SFT",
-                        "Price": 4700
+                        "Name": " Water Tank Cleaning (Reserve and Overhead Tank - Automatic Method)",
+                        "size":"piece",
+                        "Price": 3610
                     }
+                   
                 ]
             },
+          
             {
                 "Title": "Wall Paneling Works",
                 "Image": "https://i.ibb.co/ccW0v43/leather-Wall-Covering-Panel.jpg",
                 "Key": [
                     {
-                        "Name": "PVC Wall Panel",
-                        "Size": "Up to 100 SFT",
-                        "Price": 28000
+                        "Name": "Septic Tank Cleaning",
+                        "size":"cft",
+                        "Price": 9.90
                     },
                     {
-                        "Name": "PVC Wall Foam", 
-                        "Size": "Up to 100 SFT",
-                        "Price": 7500
+                        "Name": "PVC Water Tank Cleaning",
+                        "size":"piece",
+                        "Price": 1120
+                    },
+                    {
+                        "Name": " Water Tank Cleaning (Reserve and Overhead Tank - Automatic Method)",
+                        "size":"piece",
+                        "Price": 3610
                     }
                 ]
             },
             {
-                "Title": " Artificial Wood & Grass Floor",
-                "Image": "https://i.ibb.co/sWVhsq1/artificial-grass-for-balcony-flooring.jpg",
+                "Title": " Water Tank Cleaning (Reserve and Overhead Tank - Automatic Method)",
+                "Image": "https://i.ibb.co/9GJ84Xs/1635739217-pvcwatertankcleaning.jpg",
                 "Key": [
                     {
-                        "Name": "Artificial Wooden Floor",
-                        "Size": "Each SFT",
-                        "Price": 160
+                        "Name": "Septic Tank Cleaning",
+                        "size":"cft",
+                        "Price": 9.90
                     },
                     {
-                        "Name": "Artificial Grass Matt",
-                        "Size": "Each SFT",
-                        "Price": 180
+                        "Name": "PVC Water Tank Cleaning",
+                        "size":"piece",
+                        "Price": 1120
+                    },
+                    {
+                        "Name": " Water Tank Cleaning (Reserve and Overhead Tank - Automatic Method)",
+                        "size":"piece",
+                        "Price": 3610
                     }
                 ]
             }

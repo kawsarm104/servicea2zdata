@@ -1,0 +1,167 @@
+2133
+{
+        "parentService": 11,
+        "Title": "AC Servicing",
+        "Rating": 4.75,
+        "FQA": [
+            {
+                "Do I have to pay any charge if I don't take any service? ": "If you don't avail any services for your AC after our Service Provider send a technician at your doorstep then you only have to pay the visiting charge which is BDT 100"
+            },
+            {
+                "Do I have to pay advance money before availing your service?": "Of course not! After service completion you will receive a text on your mobile from ServiceA2Z then you have to pay through Online or Cash on Delivery."
+            },
+            {
+                "Is this only for household AC?": "Definitely not! As long as you want to avail this service for your AC then you can order for your office Air Conditioners too."
+            },
+            {
+                "What if they damage my AC?": "Our professional Service Providers have expert and skilled AC technicians. If they occur any damages to your AC during repairing you will get proper compensation after proper investigation. However, your complaint for any pre-damaged problems will not be considered."
+            },
+            {
+                "Do you give Materials/Parts warranty?": "No. We do not manufacture AC parts by ourselves. So, the warranty differs as per manufacturer. However, we can give you 7 days free service warranty."
+            },
+            {
+                "Can I buy AC materials/parts by myself and ask your technician to use them?": "Certainly. You can buy necessary and required materials/parts by yourself. But any operational dysfunctionality won't be held responsible by our Service Providers and ServiceA2Z itself."
+            }
+        ],
+        "overview": [
+            {
+                "What's Included?": [
+                    "Only service charge",
+                    "7 Days service warranty"
+                ]
+            },
+            {
+                "What's Excluded?": [
+                    "Price of materials or parts",
+                    "Transportation cost for carrying new materials/parts",
+                    "Warranty given by manufacturer"
+                ]
+            },
+            {
+                "Available Services": [
+                    "AC Basic Servicing",
+                    "AC Master Service",
+                    "AC Water Drop Solution",
+                    "AC Jet Wash"
+                ]
+            }
+        ],
+        "mainFeatures": [
+            "Trusted & Reliable AC Technicians",
+            "7 Days Post Service Warranty",
+            "Well-equipped & Well-prepared Specialists to Prevent COVID-19"
+        ],
+        "Reviews": [
+            {
+                "rating": "5",
+                "review": "Great service by samrat bhaiya..",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4",
+                "review": "They have expertise, also well mannered service personnel. Thank you for your service.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "He is very good and expert worker.",
+                "id": "ID",
+                "user": "ID"
+            },
+            {
+                "rating": "4.5",
+                "review": "Prompt service. Very helpful",
+                "id": "ID",
+                "user": "ID"
+            }
+        ],
+        "allServices": [
+            {
+                "Title": "AC Basic Service",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 500,
+                        "Quantity": 10
+                    },
+                    { 
+                        "Name": "2 - 3 Ton",
+                        "Price": 700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 950,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Master Service",
+                "Image": "https://i.ibb.co/tXJ6vWL/acmasterservice.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 1700,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 2200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 2600,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Water Drop Solution",
+                "Image": "https://i.ibb.co/DWPMtXD/ac-water-leaks.png",
+                "Key": [
+                    {
+                        "Name": "AC Water Drop Solution",
+                        "Price": 1100,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "Hanging Charge",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "Hanging Charge",
+                        "Price": 400,
+                        "Quantity": 10
+                    }
+                ]
+            },
+            {
+                "Title": "AC Jet Wash",
+                "Image": "https://i.ibb.co/hLy6Xcm/hangingcharge.jpg",
+                "Key": [
+                    {
+                        "Name": "1 - 1.5 Ton",
+                        "Price": 1200,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "2 - 3 Ton",
+                        "Price": 1800,
+                        "Quantity": 10
+                    },
+                    {
+                        "Name": "4 - 5 Ton",
+                        "Price": 2400,
+                        "Quantity": 10
+                    }
+                ]
+            }
+        ]
+    },
